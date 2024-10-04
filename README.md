@@ -1,7 +1,7 @@
 # Coursera-Data-Science-Coding-Challenge-Loan-Default-Prediction
 This Repo contains the solution of Coursera Network Project's Data Science Coding Challenge: Loan Default Prediction
 
-## Follow the steps below to complete the challenge
+# Follow the steps below to complete the challenge
 
 # Step 1: Dataset Description
 
@@ -15,7 +15,7 @@ This Repo contains the solution of Coursera Network Project's Data Science Codin
 
 # Step 6: Final submission
 
-## Conclusion:
+# Conclusion:
 # I received a 75% grade after submitting this code.
 
 
